@@ -1,0 +1,8 @@
+{
+  "name": "order-history-stage-4",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "typescript": "^5.5.0"
+  }
+}
